@@ -16,7 +16,7 @@
 </script>
 
 <main>
-	<h1>Konsta Poikolainen ALE-laskuri</h1>
+	<h1>Konsta Poikolainen ALE-laskuri Netlifyssä</h1>
 
 	<label for="hinta">Hinta</label>
 	<input id="hinta" type="number" min="1" max={maxHinta} oninput={hintaTsekki} />
